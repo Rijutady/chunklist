@@ -1,0 +1,16 @@
+append 5
+append 7
+append 8
+append 9
+print
+printreverse
+remove 7
+print
+search 8
+search 7
+prepend 100
+print
+insert 5 42
+print
+getlength
+quit

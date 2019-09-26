@@ -1,16 +1,35 @@
-append 5
-append 7
-append 8
-append 9
+append 11
+append 12
+append 13
+append 14
+append 15
+append 16
+append 17
+append 18
+append 19
+append 20
+append 21
+append 22
+append 23
+append 24
+append 25
+append 26
+append 27
+append 28
 print
-printreverse
-remove 7
+remove 11
+remove 18
+remove 19
+remove 25
 print
-search 8
-search 7
-prepend 100
-print
-insert 5 42
-print
+getindex 13
+search 26
 getlength
 quit
+
+
+
+
+
+
+
